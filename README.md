@@ -1,0 +1,2 @@
+# linux-based-mini-project-for-BCA-PBL-
+LINUX SYSTEM INSTALLATION AND CONFIGURATION
